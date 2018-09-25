@@ -1,0 +1,11 @@
+name: CustomCommands
+main: firstCommands.Main
+version: 1.0
+author: Matthew Williams
+commands:
+   hello:
+      description: Basic command that returns "Hello" to the player who sends it.
+      usage: /hello
+   LordMatt:
+      description: Basic command that teleports the user to spawn.
+      usage: /LordMatt
